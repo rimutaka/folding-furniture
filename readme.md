@@ -1,6 +1,6 @@
-# Minimalistic standing desk with detachable legs for small places
+# Standing desk with quick-detach legs for home-office
 
-Wouldn't it be cool if you could "fold" your home-office furniture and free the space for other activities?
+Wouldn't it be cool if you could "fold" your home-office furniture and free the space for other activities? 
 
 #### Demo video: https://www.youtube.com/watch?v=HdWBJu45pjg
 
@@ -51,16 +51,18 @@ The clamp is held tight inside a special cut out. Its main connection point is t
 
 #### Disclaimer
 
-*Our workshop went into a total lockdown over COVID-19 and we didn't get a chance to retrieve a properly assembled desk to photograph. Given the urgency, I photographed the very first prototype I use at home, so excuse the extra holes and ugly screws you see in some of the photos.*
+*Our workshop went into a total lockdown over COVID-19 and I had to photograph the very first prototype I use at home, so excuse the extra holes and ugly screws you see in some of the photos.*
 
 #### USE DOWELS IN PLACE OF SCREWS
 
 ![clamp interface bottom view](img/clamp-interface-bottom.jpg)
 
-1. Fix both parts of the interface to the bottom side of the desk using dowels.
-2. Make sure all surfaces are pressed tightly and have no gaps.
-3. Insert the clamp into the interface before it dries for a tighter fit.
-4. Press the clamp closer to the bottom surface of the top board with 2 or more additional screws at 45-degrees.
+1. Push both parts of the interface, insert the clamp and drill a hole for the M10 bolt
+2. Fix the interface with the clamp to the bottom side of the desk using dowels.
+3. Make sure all surfaces are pressed tightly and have no gaps.
+4. Leave the clamp pushed tight into the interface.
+5. Let the glue set.
+6. Drive 2 or more additional screws into the interface at 45-degrees to press the clamp closer to the surface of the top board.
 
 ![clamp installed iso](img/clamp-installed-iso.jpg)
 
@@ -72,11 +74,11 @@ The diameter of the dowels can be changed to match the diameter of your main cut
 
 ## Legs
 
-The legs are made out of 50mm aluminium tube cut to a set length (1100mm in my case). Any reasonably priced aluminium tube with wall thickness between 1.5mm and 3mm is suitable for this purpose. 
+The legs are made out of 50mm aluminium tube cut to a set length (1100mm in this case). Any reasonably priced aluminium tube with wall thickness between 1.5mm and 3mm is suitable for this purpose. 
 
 **Recommended configuration**: 50mm OD, 1.6mm wall thickness, 1100mm for a 180cm tall person, 3 legs per desk.
 
-A 3-legged desk is sufficiently stable with symmetrical load. E.g. a single extra monitor in the center or 2 extra monitors, one on each side. Use 4 legs if the load is asymmetrical.
+A 3-legged desk is sufficiently stable with a symmetrical load like a single extra monitor in the center or 2 extra monitors, one on each side. Use 4 legs if the load is asymmetrical.
 
 ![one extra monitor](img/single-monitor.jpg)
 
@@ -84,25 +86,25 @@ A 3-legged desk is sufficiently stable with symmetrical load. E.g. a single extr
 
 ## Desk height
 
-This desk is higher than most commercial models you'll find in furniture stores. Placing the top of the desk just under the elbows gives better body support for a more upright and relaxed posture. This is a matter of preference - you can choose any height of the legs to suit your needs. 
+This desk is higher than most commercial models we see in furniture stores. Placing the top of the desk just under the elbows gives better body support for a more upright and relaxed posture. This is a matter of preference - you can choose any height of the legs to suit your needs. 
 
-According to [the golden ratio model of human body](http://tools.openlab.psu.edu/tools/proportionality_constants.htm), a person 178cm tall has 112cm floor-to-elbow height. Multiply your full height by 0.63 to calculate your desk legs hight or measure it with a tape. Take into account the footwear and an [anti-fatigue mat](https://www.ncbi.nlm.nih.gov/pubmed/23964416) you may use while standing at the desk.
+According to [the golden ratio model of human body](http://tools.openlab.psu.edu/tools/proportionality_constants.htm), a person 178cm tall has 112cm floor-to-elbow height. Multiply your full height by 0.63 to calculate your desk legs height or measure it with a tape. Take into account the footwear and an [anti-fatigue mat](https://www.ncbi.nlm.nih.gov/pubmed/23964416) you may use while standing at the desk.
 
 ## Feet
 
-The feet are round cutouts. One goes inside the leg, the other has the same OD as the leg (50mm) and stays outside. Join the two halves together and push hard into the leg to set it in place. Use padding such as paper or fabric if the foot is a bit loose. The feet are cut out of the same sheet as the top.
+The feet consist of two round cutouts made from the same sheet as the top. The smaller one goes inside the leg. The other cutout has the same OD as the tube (50mm) and sits comfortably between the tube and the floor. Join the two halves together with a dowel and push hard into the leg to set it in place. Use padding such as paper or fabric if the foot is a bit loose inside the tube.
 
 ![feet](img/foot.jpg)
 
 Extra stability from tipping (e.g. if someone pushes it) can be added with small bags of salt stuffed inside the legs.
 
-Use coarse salt in a sock or a stocking. 3 cups of salt per leg make the desk very stable against someone accidentally pushing it with their body. 5 cups of salt make the desk almost anchored to the floor.
+Use coarse salt in a sock or a stocking. 3 cups of salt per leg add enough extra stability even for a strong push.
 
 ![extra weight](img/extra-leg-weight.jpg)
 
 ## Latex band
 
-The latex band hooks onto the clamps and holds the legs in place while in storage. Amazons and fitness stores have plenty of latex bands on offer, but a no-name band from a discount store will do just fine.
+The latex band hooks onto the clamps and holds the legs in place while in storage. Amazons and fitness stores have plenty of latex bands on offer, but a generic elastic band from a discount store will do just fine.
 
 * **Latex band**: 1000mm x 20mm x 4mm
 
@@ -112,7 +114,7 @@ The latex band hooks onto the clamps and holds the legs in place while in storag
 
 ## Storage bag
 
-It's easy to damage the surface of the desk while carrying it or leaning other hard things onto it while in storage. The bag is not a guarantee, but it does offer some protection.
+It's easy to damage the surface of the desk while carrying it or leaning other things onto it while in storage. The bag is not a guarantee, but it does offer some protection.
 
 * **Material**: jute / burlap fabric, 900-930mm wide x 2.4m long
 * **Eyelets**: 15mm x 3pcs
@@ -123,7 +125,7 @@ We used cotton cord for ties to keep our design completely plastic-free. You can
 
 ![bag dimensions](img/bag.png)
 
-#### A double-stich or a more strong pattern is recommended.
+#### A double-stitch or another strong pattern is recommended.
 
 ![corner stitch](img/bag-corner-stitch.jpg)
 
@@ -131,7 +133,7 @@ We used cotton cord for ties to keep our design completely plastic-free. You can
 
 ![overlocking](img/bag-overlocking.jpg)
 
-#### The knots on both sides of the eyelet are stopping the cord from coming out and getting lost
+#### The knots on both sides of the eyelet are stopping the cord from coming out.
 
 ![eyelets](img/bag-eyelet.jpg)
 
@@ -141,38 +143,40 @@ We used cotton cord for ties to keep our design completely plastic-free. You can
 
 Refer to *Design Details* section above for more info on the components. Understanding how they fit together will make ordering easier.
 
-You should be able to order everything locally. Any town with 400,000+ people should have all the supplies you need and at least a few joiner companies to cut the top for you.
+You should be able to order everything locally. Any town with 400,000+ people should have all the supplies you need and at least several joinery companies to cut out the top board.
 
-* **Ordering everything yourself**: allow 30min to an hour to find suppliers and place orders. Ship everything to the joiner for the final assembly.
-* **Asking your joiner to order everything**: this is an easier option, but expect an extra charge for shipping and handling.
+* **Ordering everything yourself**: allow 30min to an hour to find suppliers and place orders. Ship everything to the joinery for the final assembly.
+* **Asking the joinery to order everything**: this is an easier option, but expect an extra charge for shipping and handling.
 
-### Finding a joiner
-Look for a company that makes custom flat-pack furniture, such as kitchens or wardrobes. They usually have a special machine called *CNC router* to cut all the parts you need within a few minutes. A good joiner should be able to cut and assemble your desk with ease. 
+### Finding a joinery
+Look for a company that makes custom flat-pack furniture, such as kitchens or wardrobes. They usually have a special machine called *CNC router* that can cut all the parts you need within minutes. A good joiner should be able to cut and assemble your desk with ease. 
 
-Send them all an email with [files from `ordering` folder](ordering) and a link to this post asking for a quote and if they can order the legs and the clamps for you as well.
+Email them all the files from [ordering folder](ordering) and a link to this post asking for a quote. Additional questions to ask:
+* what 18mm ... 22mm sheets of plywood they have in stock
+* can they order the legs and the clamps for you
+* how long it make take them to complete the job
 
 ### List of parts
 
-Remember, the desk can be made with 3 or 4 legs. Adjust the quantities accordingly.
+Remember, **the desk can be made with 3 or 4 legs**. Adjust the quantities for aluminium tube and clamps accordingly.
 
-1. Sheet of PLY or MDF, min size 1150mm x 1000mm
-2. Global Truss [Mini 360](https://www.globaltruss.com/mini-360) or [Mini 360 QR](https://www.globaltruss.com/mini-360-qr) clamps, x3 or x4 pcs (3 or 4 legs)
-   * BeamZ SWL-100 coupler can also be used
-3. M10 zinc-plated or SS nut, x3/x4 pcs to replace M10 wing-nuts on the clamps
+1. One sheet of PLY or MDF, min size 1200mm x 1100mm
+2. Global Truss [Mini 360](https://www.globaltruss.com/mini-360) or [Mini 360 QR](https://www.globaltruss.com/mini-360-qr) or BeamZ SWL-100 clamps, x3 or x4 pcs (for 3 or 4 legs)
+3. M10 zinc-plated or SS nuts, x3/x4 pcs to replace M10 wing-nuts on the clamps
 4. 6G x 20mm chipboard screws, x12/x16 pcs
 5. Aluminium tube 50mm outer diameter (OD) x 1.6mm ... 3mm wall x 1100mm long , x3/x4 pcs
    * Google search: https://www.google.com/search?q=aluminum+tube+cut+to+size
-   * The choice may be confusing and overwhelming - any material or finish will do, just get the cheapest one from whoever can cut it to size with least hassle
-   * Request 1mm cut precision
-   * Optionally, ask for sanding or deburring of the cut edges to remove sharp bits
-6. Latex band, 1m long loop, approximately 2cm ... 3cm wide, medium strength
+   * The choice for the tube may be confusing and overwhelming. Ignore the finer details. Choose any reasonably priced aluminium from whoever can cut it to size and ship the legs to you.
+   * Request 1mm cut precision.
+   * Request the sharp edges of the cuts to be smoothed out
+6. 1m long latex loop or another elastic band, medium strength
    * Check your local discount store. It's a $5 ... $10 item.
 
-7. Bag order - read *Bag section* above
+7. Bag order - refer to *Bag section* for details.
    * Do you even need a bag?
    * If you do, find someone local who works with jute fabric: https://www.google.com/search?q=custom+jute+bags or https://www.google.com/search?q=custom+jute
    * Email them [this image](img/bag.png) for a quote
-   * The job should take them about 15 minutes: 1 cut, 2 stitches, 3 eyelets.
+   * The job should take them about 20 minutes: 1 cut, 2 stitches, 3 eyelets.
 
 ### Shipping the desk to you
 
@@ -184,4 +188,4 @@ Get the bag shipped directly to the joiner. It's the easiest packaging option. A
 
 ### Getting your desk for free
 
-A standard sheet of plywood or MDF fits 3 desk-tops, but the cost of cutting and assembling all three is about the same as making one. You can order 3, sell 2 with a 50% markup on eBay and get your money back.
+A standard 1.2m x 2.4m sheet of plywood or MDF [can fit 3 desk cutouts](ordering/all-parts-x3.pdf), but the cost of cutting and assembling all three is about the same as making one. You can order 3, sell 2 with 50% markup on eBay and get your money back.
